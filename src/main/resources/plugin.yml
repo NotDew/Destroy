@@ -1,0 +1,8 @@
+name: Destroy
+version: '${project.version}'
+main: me.notdew.com.destroy.Destroy
+api-version: 1.12.2
+
+commands:
+  destroy:
+    usage: /<command>
